@@ -1,0 +1,10 @@
+Task,,
+which customer segment to targate,,
+,,
+,"segment: age, job, education,marital status.(Text)",
+"number,text,date",,
+"join sheets, dividing the data in groups and categories","age= number function
+
+",
+,function,in build expressions
+,formula,user created expression
